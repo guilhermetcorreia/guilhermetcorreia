@@ -1,5 +1,5 @@
 Hi, I'm Guilherme Correia 🖐️
-I am a software developer with one year of experience, focused on building powerful and robust API's and developing web systems.
+I am a software developer, focused on building powerful and robust API's and developing web systems.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-correia-1736ab235/) 
